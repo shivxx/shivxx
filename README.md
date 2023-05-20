@@ -18,8 +18,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [[My Portfolio](https://shivxx.netlify.app/)]([My
-Portfolio](https://shivxx.netlify.app/))
+- 👨‍💻 All of my projects are available at [[My Portfolio](https://shivxx.netlify.app/)]
 
 - 💬 Ask me about **Web Development or any tech related stuff.**
 

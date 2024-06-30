@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Web Development or any tech related stuff.**
 
-- 📫 How to reach me **sy147208@gmail.com**
+- 📫 How to reach me **codewithshivxx@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
